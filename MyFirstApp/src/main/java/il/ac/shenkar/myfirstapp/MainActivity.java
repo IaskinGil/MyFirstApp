@@ -12,6 +12,7 @@ import android.view.ViewGroup;
 import android.os.Build;
 import android.content.Intent;
 import android.widget.EditText;
+//blabla
 
 public class MainActivity extends Activity {
     public final static String EXTRA_MESSAGE = "il.ac.shenkar.myfirstapp.MESSAGE";
